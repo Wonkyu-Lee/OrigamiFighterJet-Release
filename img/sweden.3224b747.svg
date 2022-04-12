@@ -1,0 +1,6 @@
+<svg version="1.1" viewBox="0 0 1114 1114" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="557" cy="557" r="515" fill="#005293" stroke="#FECB00" stroke-width="80"/>
+ <path id="e" d="m208 360 100 60 50-60 50 60 100-60-65 190h-170z" fill="#FECB00" stroke="#000" stroke-width="7"/>
+ <use x="398" xlink:href="#e"/>
+ <use x="199" y="310" xlink:href="#e"/>
+</svg>

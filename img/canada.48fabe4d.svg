@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 600.4 600.4" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <circle cx="300" cy="300" r="300" fill="#00005b"/>
+  <circle cx="300.2" cy="300.2" r="187.5" fill="#ffffff"/>
+  <circle cx="300" cy="300" r="300" fill="#00005b"/>
+  <circle cx="300.2" cy="300.2" r="187.5" fill="#ffffff"/>
+  <g transform="matrix(3.7795 0 0 3.7795 98.453 -99.482)" fill="#c80c02" stroke="#c80c02">
+   <path d="m53.379 61.092 5.3255 11.007c1.0631 2.1148 3.7355 3.5077 5.8834 2.2788l4.7235-2.5387-3.9569 21.71c-0.33945 2.1872 2.445 2.9239 3.6853 1.9017l9.036-8.6698 2.2926 4.5698c0.37302 0.71963 1.9532 1.183 3.0569 1.0357l9.605-2.2885-2.9066 11.76c-0.12254 0.56397 0.23411 2.4073 1.186 2.9734l2.5056 1.4032-18.929 16.194c-0.48391 0.35612-0.70257 0.84286-0.61534 1.5288l1.2862 6.8488-19.043-2.656c-1.33 3e-3 -1.8849 1.0939-1.8041 1.8709l1.4199 19.511-2.7513 0.0208-2.7513-0.0208 1.4199-19.511c0.08087-0.77695-0.47407-1.8679-1.8041-1.8709l-19.043 2.656 1.2862-6.8488c0.08723-0.68599-0.13143-1.1727-0.61534-1.5288l-18.929-16.194 2.5056-1.4032c0.9519-0.56612 1.3086-2.4094 1.186-2.9734l-2.9066-11.76 9.605 2.2885c1.1037 0.14731 2.6839-0.31604 3.0569-1.0357l2.2926-4.5698 9.036 8.6698c1.2402 1.0222 4.0247 0.28546 3.6853-1.9017l-3.9569-21.71 4.7235 2.5387c2.148 1.2288 4.8203-0.16398 5.8834-2.2788z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#c80c02" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" stroke="none" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  </g>
+  <g transform="matrix(3.7795 0 0 3.7795 99.37 -101.25)" fill="#c80c02" stroke="#c80c02"></g>
+ </g>
+</svg>

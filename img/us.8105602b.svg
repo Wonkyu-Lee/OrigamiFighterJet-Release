@@ -1,0 +1,18 @@
+<svg width="2040" height="1080" version="1.1" viewBox="0 0 204 108" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Roundel of the USAF</title>
+ <rect x="2.3493" y="33.17" width="199.3" height="36" fill="#1a1e3b"/>
+ <circle cx="102" cy="54" r="54" fill="#1a1e3b"/>
+ <rect x="8.3493" y="39.17" width="187.3" height="24" fill="#fff"/>
+ <rect x="8.3493" y="47.17" width="187.3" height="8" fill="#8f1700"/>
+ <circle cx="102" cy="54" r="48" fill="#1a1e3b"/>
+ <g transform="translate(102,54)scale(48)" fill="#fff">
+  <g id="cone">
+   <polygon id="triangle" transform="translate(0,-1)rotate(18)" points="0 0 0 1 0.5 1"/>
+   <use transform="scale(-1,1)" xlink:href="#triangle"/>
+  </g>
+  <use transform="rotate(72)" xlink:href="#cone"/>
+  <use transform="rotate(-72)" xlink:href="#cone"/>
+  <use transform="rotate(144)" xlink:href="#cone"/>
+  <use transform="rotate(216)" xlink:href="#cone"/>
+ </g>
+</svg>
