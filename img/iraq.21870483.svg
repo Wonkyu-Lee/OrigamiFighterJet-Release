@@ -1,0 +1,9 @@
+<svg width="600" height="495.23" version="1" viewBox="-1.5 1 600 495.23" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <path d="M-1.5 496.13l600 .097L297.905 1z"/>
+  <path d="M53.094 467.87l491.622.404L298.26 60.506z" fill="#007a3d"/>
+  <path d="m273.51 322.83 27.068 38.925 23.756-39.507-23.984-38.925z" fill="#fff"/>
+  <path d="m248 322.2 51.874 83.196 49.597-84.153-78.37-136.25 28.98-51.779 27.376 53.05z" fill="none" stroke="#ce1126" stroke-width="15.98"/>
+  <path d="m300.3 264.42 18.592-31.96" fill="none" stroke="#007a3d" stroke-width="15.98"/>
+ </g>
+</svg>
