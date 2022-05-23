@@ -1,0 +1,24 @@
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 793.7 1122.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect id="bounds" width="793.87" height="1122.5" fill="#ffffff" stop-color="#000000" stroke="#666666" stroke-width="3.7795"/>
+ <g id="pattern_01">
+  <path id="base" d="m396.85-0.13867-48.473 0.13867-126.61 105.9 175.08 127.27 175.08-127.27-126.61-105.9zm175.08 106.04-175.08 349.19-175.08-349.19c-24.573 20.031-49.551 39.618-73.219 60.717l-80.824 37.223 83.271-69.611-151-134.23v235.03l-0.16602 93.791 0.16602 207.07 222.09 14.102-25.217-240.39 164.15 379.96 35.832 36.432 35.834-36.432 164.15-379.96-25.217 240.39 222.09-14.102 0.16602-207.07-0.16602-93.791v-235.03l-151 134.23 83.271 69.609-80.824-37.221c-23.668-21.099-48.644-40.687-73.217-60.717zm-401.85 845.42-170.25 171.2h242.9l-63.93-70.568zm453.54 0-8.7266 100.63-63.93 70.568h242.9z" fill="#989898"/>
+ </g>
+ <g id="guide" fill="none" stroke="#808080">
+  <path d="m793.87 1122.5-793.87-793.7m0 793.7 793.87-793.7m-793.87-328.82h793.7v1122.5h-793.7z" stop-color="#000000" stroke-dasharray="4, 1" style="font-variation-settings:normal"/>
+  <path d="m718.33 1122.5 1.175-29.807 21.524-22.924m-114.78-13.548 8.7071-92.661m158.75 158.94-167.46-66.279-61.238 66.279m130.32-227.51 98.378-1.2436m-332.22 1.2436-64.63 63.406m89.516-445.48 27.3 95.847m-116.82 117.21 230.3-549.92 166.55 84.384m-396.85-260.59 230.3 176.21m-551.78 946.45-1.175-29.807-21.524-22.924m114.78-13.548-8.7071-92.661m-158.75 158.94 167.46-66.279 61.238 66.279m-130.32-227.51-98.378-1.2436m332.22 1.2436 64.63 63.406m-89.516-445.48-27.3 95.847m116.82 117.21-230.3-549.92-166.55 84.384m396.85-260.59-230.3 176.21" stroke-dasharray="3, 1"/>
+ </g>
+ <g id="parts">
+  <path id="cockpit" d="m396.85 624.13h11.123s24.754-86.942 22.686-126.28c0 0-4.6009-4.5484-14.78-7.6321l-19.028 0.0652m0 133.85h-11.123s-24.754-86.942-22.686-126.28c0 0 4.6009-4.5484 14.78-7.6321l19.028 0.0652" fill="#806600"/>
+  <path id="cockpitBorder" d="m396.85 518.6h33.612m-33.612 63.326h22.48m-22.48 42.212h11.123s24.754-86.942 22.686-126.28c0 0-4.6009-4.5484-14.78-7.6321l-19.028 0.0652m0 28.313h-33.612m33.612 63.326h-22.48m22.48 42.212h-11.123s-24.754-86.942-22.686-126.28c0 0 4.6009-4.5484 14.78-7.6321l19.028 0.0652" fill="none" stroke="#9d9d9d" stroke-width="4.5354"/>
+  <ellipse id="hud" cx="396.85" cy="592.47" rx="9.4453" ry="4.7621" fill="#00c600" stop-color="#000000"/>
+ </g>
+ <g display="none" opacity=".34644">
+  <image width="793.7" height="1122.5" display="inline" preserveAspectRatio="none" xlink:href="file:///home/user/Desktop/Origami/Scan/rafale.JPG"/>
+ </g>
+ <g id="decal">
+  <image id="roundel_wingR" transform="scale(-1,1)" x="-65.408" y="288.98" width="50.29" height="26.624" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/france.svg"/>
+  <image id="roundel_wingL" x="728.29" y="288.98" width="50.29" height="26.624" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/france.svg"/>
+  <image id="roundel_tailL" transform="rotate(-61.85)" x="116.36" y="409.26" width="50.29" height="26.624" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/france.svg"/>
+  <image id="roundel_tailR" transform="matrix(-.47178 -.88171 -.88171 .47178 0 0)" x="-258.1" y="-290.56" width="50.29" height="26.624" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/france.svg"/>
+ </g>
+</svg>
