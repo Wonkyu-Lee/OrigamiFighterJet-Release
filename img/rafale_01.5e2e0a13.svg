@@ -12,9 +12,6 @@
   <path id="cockpitBorder" d="m396.85 518.6h33.612m-33.612 63.326h22.48m-22.48 42.212h11.123s24.754-86.942 22.686-126.28c0 0-4.6009-4.5484-14.78-7.6321l-19.028 0.0652m0 28.313h-33.612m33.612 63.326h-22.48m22.48 42.212h-11.123s-24.754-86.942-22.686-126.28c0 0 4.6009-4.5484 14.78-7.6321l19.028 0.0652" fill="none" stroke="#bfbfbf" stroke-width="4.5354"/>
   <ellipse id="hud" cx="396.85" cy="592.47" rx="9.4453" ry="4.7621" fill="#00c600" stop-color="#000000"/>
  </g>
- <g display="none" opacity=".34644">
-  <image width="793.7" height="1122.5" display="inline" preserveAspectRatio="none" xlink:href="file:///home/user/Desktop/Origami/Scan/rafale.JPG"/>
- </g>
  <g id="decal">
   <image id="roundel_wingR" transform="scale(-1,1)" x="-65.408" y="288.98" width="50.29" height="26.624" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/france.svg"/>
   <image id="roundel_wingL" x="728.29" y="288.98" width="50.29" height="26.624" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/france.svg"/>
