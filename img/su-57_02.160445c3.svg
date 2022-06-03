@@ -22,5 +22,6 @@
    <image id="roundel_tailR" transform="matrix(-.16547 -.98621 -.98944 .14491 0 0)" x="-278.65" y="23.168" width="12.644" height="11.585" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/soviet.svg"/>
    <image id="roundel_tailL" transform="matrix(.16547 -.98621 .98944 .14491 0 0)" x="-248.13" y="230.86" width="12.644" height="11.585" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/soviet.svg"/>
   </g>
+  <image id="qr" x="147.07" y="267.9" width="26.044" height="26.044" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/qrCodes/origami-skin.svg"/>
  </g>
 </svg>
