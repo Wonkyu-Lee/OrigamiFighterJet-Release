@@ -31,22 +31,28 @@
    <path d="m5.0104 0.9202-3.9445 3.9667v10.889l3.9445 3.374h6.1345v5.6746l-1.7379 2.1983h-1.2273l-1.8402-2.1983h-5.2736v3.7832l3.9445 4.1233h7.5148l3.8856-4.1233v-23.721l-3.8856-3.9667zm3.1693 5.3981h1.2273l1.7379 2.4541v3.2463l-1.7379 2.0702h-1.2273l-1.8402-2.0195v-3.297z"/>
   </symbol>
  </defs>
- <rect id="base" width="210" height="297" fill="#b3b3b3" opacity=".3" stop-color="#000000" stroke="#000000" stroke-opacity=".53367" stroke-width=".4"/>
+ <rect id="base" width="210" height="297" fill="#b3b3b3" stop-color="#000000"/>
  <g id="body">
   <path id="mainBody" d="m210.09 281.77-78.138-77.9 8.5245-9.4359 69.59 42.06zm-105.09-104.77 105.12-105.02v-25.71l-38.743-13.838-5.9568-2.066-24.836-12.506-35.59-17.986zm-105.09 104.77 78.138-77.9-8.5245-9.4359-69.59 42.06zm105.09-104.77-105.12-105.02v-25.71l38.743-13.838 5.9568-2.066 24.836-12.506 35.59-17.986z" fill="#ff0000" stop-color="#000000"/>
   <path id="intake" d="m131.96 203.91 0.92373 0.97017 8.5698-9.8547-0.96779-0.58493zm-53.918 0-0.92373 0.97017-8.5698-9.8547 0.96779-0.58493z" fill="#008000" stop-color="#000000"/>
   <path id="wingEdge" d="m180.24 93.12 29.886-32.823-31.814 39.522m-148.55-6.6988-29.886-32.823 31.814 39.522" fill="#ffffff" stop-color="#000000"/>
-  <path id="rudderEdge" d="m105 107.5v-96.505l1.3345 0.89464 0.94312 87.933zm0 0v-96.505l-1.3345 0.89464-0.94312 87.933z" display="none" fill="#ffffff" stop-color="#000000"/>
+  <path id="rudderEdge" d="m105 107.5v-96.505l1.3345 0.89464 0.94312 87.933zm0 0v-96.505l-1.3345 0.89464-0.94312 87.933z" fill="#ffffff" stop-color="#000000"/>
   <path id="redderTopEdge" d="m105-0.12807v17.606l3.9743-15.61zm0 0v17.606l-3.9743-15.61z" fill="#ffffff" stop-color="#000000"/>
   <path id="cockpit" d="m111.65 137.17s-3.2209 0.9723-6.6461 0.9723v16.975h1.8386s1.9704-1.8175 2.512-3.0325c0.61081-1.3702 1.0611-3.2653 1.3932-5.2449h-5.7221v-0.91614h5.8673c0.64425-4.3353 0.75706-8.754 0.75706-8.754zm-13.292 0s3.2209 0.9723 6.6461 0.9723v16.975h-1.8386s-1.9704-1.8175-2.512-3.0325c-0.61081-1.3702-1.0611-3.2653-1.3932-5.2449h5.7221v-0.91614h-5.8673c-0.64425-4.3353-0.75706-8.754-0.75706-8.754z" fill="#000000" stop-color="#000000"/>
   <circle id="raidar" cx="105" cy="177" r="13.002" fill="#000000" stop-color="#000000"/>
  </g>
  <g id="decals">
   <g id="numbers" fill="#ffffff">
-   <use id="digit_InnerL" transform="rotate(193.14 80.841 37.072)" xlink:href="#n8"/>
-   <use id="digit_OuterL" transform="rotate(180.39 88.207 47.871)" xlink:href="#n8"/>
-   <use id="digit_OuterR" transform="rotate(179.27 25.461 48.205)" xlink:href="#n1"/>
-   <use id="digit_InnerR" transform="rotate(166.61 32.918 48.167)" xlink:href="#n1"/>
+    <g id="tailNumbers" font-family="'Manrope'" font-size="9.2571px" stroke-width=".37486">
+    <text id="number_OnTailL" transform="matrix(.28478 -.91447 1.0135 .25695 0 0)" x="0.055253569" y="115.54601" stop-color="#000000" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="0.055253569" y="115.54601" font-size="9.2571px" stroke-width=".37486" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">22</tspan></text>
+    <text id="number_OnTailR" transform="matrix(.37223 .8825 -.94023 .45737 0 0)" x="62.292454" y="-72.724571" stop-color="#000000" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="62.292454" y="-72.724571" font-size="9.2571px" stroke-width=".37486" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">22</tspan></text>
+    </g>
+    <g id="numbers">
+    <use id="digit_InnerL" transform="rotate(193.14 80.841 37.072)" xlink:href="#n8"/>
+    <use id="digit_OuterL" transform="rotate(180.39 88.207 47.871)" xlink:href="#n8"/>
+    <use id="digit_OuterR" transform="rotate(179.27 25.461 48.205)" xlink:href="#n1"/>
+    <use id="digit_InnerR" transform="rotate(166.61 32.918 48.167)" xlink:href="#n1"/>
+    </g>
   </g>
   <g id="roundels">
    <image id="roundel_WingR" transform="rotate(166.41)" x="-11.362" y="-73.831" width="15.187" height="15.187" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/sweden.svg"/>

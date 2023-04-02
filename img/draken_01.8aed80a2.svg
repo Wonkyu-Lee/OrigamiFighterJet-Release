@@ -30,16 +30,31 @@
   <symbol id="n9">
    <path d="m3.5863-0.38173-3.7495 3.75v8.6889h17.599v-8.8338l-3.6052-3.6052zm3.3236 5.6043h3.5105l1.4956 1.4956v2.6465l-1.4956 1.4956h-3.5105l-1.4956-1.4956v-2.6465zm-7.073 7.6438v1.1398l3.0274 3.0268h9.0517v8.8274h-5.0061l-1.4956 1.4956v3.0163l1.4956 1.4956h7.2962l3.2295-3.2289v-15.773z"/>
   </symbol>
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Roboto Condensed';
+        src: url('../fonts/RobotoCondensed-Regular.ttf');
+      }
+    </style>
+  </defs>
  </defs>
  <g id="body" class="UnoptimicedTransforms">
+  <rect id="base" width="210" height="297" fill="#e6e6e6" stop-color="#000000" stroke="#000000" stroke-width=".2"/>
   <path id="mainBody" d="m210.09 281.77-78.138-77.9 8.5245-9.4359 69.59 42.06zm-105.09-104.77 105.12-105.02v-25.71l-38.743-13.838-5.9568-2.066-24.836-12.506-35.59-17.986zm-105.09 104.77 78.138-77.9-8.5245-9.4359-69.59 42.06zm105.09-104.77-105.12-105.02v-25.71l38.743-13.838 5.9568-2.066 24.836-12.506 35.59-17.986z" fill="#999999" stop-color="#000000"/>
   <path id="subBody" d="m157.32 229.34 9.3297-19.094 43.415 26.249 0.0237 45.276zm-52.32-116.12 7.4036-1.8937 19.29 0.86792 31.184 6.9924 47.247-47.205-0.0274-25.42-38.51-14.026-6.1455-2.1999-60.442-30.459zm-52.32 116.12-9.3297-19.094-43.415 26.249-0.0237 45.276zm52.32-116.12-7.4036-1.8937-19.29 0.86792-31.184 6.9924-47.247-47.205 0.0274-25.42 38.51-14.026 6.1455-2.1999 60.442-30.459z" fill="#666666" stop-color="#000000"/>
-  <path id="wingEdge" d="m180.24 93.12 29.886-32.823-31.814 39.522m-148.55-6.6988-29.886-32.823 31.814 39.522" fill="#ffffff" stop-color="#000000"/>
   <path id="intake" d="m131.96 203.91 0.92373 0.97017 8.5698-9.8547-0.96779-0.58493zm-53.918 0-0.92373 0.97017-8.5698-9.8547 0.96779-0.58493z" fill="#333333" stop-color="#000000"/>
   <path id="cockpit" d="m111.65 137.17s-3.2209 0.9723-6.6461 0.9723v16.975h1.8386s1.9704-1.8175 2.512-3.0325c0.61081-1.3702 1.0611-3.2653 1.3932-5.2449h-5.7221v-0.91614h5.8673c0.64425-4.3353 0.75706-8.754 0.75706-8.754zm-13.292 0s3.2209 0.9723 6.6461 0.9723v16.975h-1.8386s-1.9704-1.8175-2.512-3.0325c-0.61081-1.3702-1.0611-3.2653-1.3932-5.2449h5.7221v-0.91614h-5.8673c-0.64425-4.3353-0.75706-8.754-0.75706-8.754z" fill="#000000" stop-color="#000000"/>
-  <circle id="raidar" cx="105" cy="177" r="13.002" fill="#000000" stop-color="#000000"/>
+   <circle id="raidar" cx="105" cy="177" r="13.002" fill="#000000" stop-color="#000000"/>
+  <path id="wingEdge" d="m180.24 93.12 29.886-32.823-31.814 39.522m-148.55-6.6988-29.886-32.823 31.814 39.522" fill="#ffffff" stop-color="#000000"/>
+  <path id="rudderEdge" d="m105 107.5v-96.505l1.3345 0.89464 0.94312 87.933zm0 0v-96.505l-1.3345 0.89464-0.94312 87.933z" fill="#ffffff" stop-color="#000000"/>
+  <path id="redderTopEdge" d="m105-0.12807v17.606l3.9743-15.61zm0 0v17.606l-3.9743-15.61z" fill="#ffffff" stop-color="#000000"/>
  </g>
  <g id="decals">
+  <g id="tailNumbers" fill="#000000" font-family="'Roboto Condensed'" font-size="9.2571px" stroke-width=".37486">
+   <text id="number_OnTailL" transform="matrix(.28478 -.91447 1.0135 .25695 0 0)" x="0.055253569" y="115.54601" stop-color="#000000" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="0.055253569" y="115.54601" font-family="'Roboto Condensed'" font-size="9.2571px" stroke-width=".37486" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">22</tspan></text>
+   <text id="number_OnTailR" transform="matrix(.37223 .8825 -.94023 .45737 0 0)" x="62.292454" y="-72.724571" stop-color="#000000" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="62.292454" y="-72.724571" font-family="'Roboto Condensed'" font-size="9.2571px" stroke-width=".37486" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">22</tspan></text>
+  </g>
   <g id="numbers" fill="#ff4500">
    <use id="digit_InnerL" transform="rotate(193.67 80.266 36.118)" xlink:href="#n0"/>
    <use id="digit_OuterL" transform="rotate(181.42 88.237 46.621)" xlink:href="#n0"/>
