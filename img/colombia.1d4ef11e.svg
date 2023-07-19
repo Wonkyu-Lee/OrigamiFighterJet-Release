@@ -1,0 +1,23 @@
+<svg id="svg33" version="1.1" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle id="circle2" cx="300" cy="300" r="300" fill="#fcd116"/>
+ <path id="path4" d="M300 300H0a300 300 0 0 0 300 300z" fill="#003893"/>
+ <path id="path6" d="m300 300h300a300 300 0 0 1-300 300z" fill="#ce1126"/>
+ <clipPath id="a">
+  <circle id="circle8" cx="250" cy="250" r="150"/>
+ </clipPath>
+ <g id="g17" transform="scale(1.2)" clip-path="url(#a)">
+  <path id="path11" d="M0 0h400v400H0z" fill="#fcd116"/>
+  <path id="path13" d="M0 0h400v250H0z" fill="#003893"/>
+  <path id="path15" d="M0 0h400v175H0z" fill="#ce1126"/>
+ </g>
+ <g id="g31" transform="matrix(1.2 0 0 1.2 300 300)" fill="#fff">
+  <g id="c">
+   <path id="b" transform="rotate(18 0 -50)" d="M0-50V0h25"/>
+   <use id="use20" transform="scale(-1 1)" width="100%" height="100%" xlink:href="#b"/>
+  </g>
+  <use id="use23" transform="rotate(72)" width="100%" height="100%" xlink:href="#c"/>
+  <use id="use25" transform="rotate(144)" width="100%" height="100%" xlink:href="#c"/>
+  <use id="use27" transform="rotate(216)" width="100%" height="100%" xlink:href="#c"/>
+  <use id="use29" transform="rotate(-72)" width="100%" height="100%" xlink:href="#c"/>
+ </g>
+</svg>
