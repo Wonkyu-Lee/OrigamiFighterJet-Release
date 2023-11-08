@@ -1,0 +1,40 @@
+<svg id="svg5" width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <symbol id="missile">
+   <g transform="matrix(.78888 0 0 .78888 -64.236 -80.048)">
+    <path id="body" d="m81.552 174.09 18.508-72.587 18.508 72.587v33.257h-37.017z" fill="#98c4d0"/>
+    <path id="warhead" d="m100.06 101.51-4.5656 17.906a18.491 18.491 0 0 0 4.5656 0.58446 18.491 18.491 0 0 0 4.5656-0.58446z" fill="#ffffff"/>
+    <g id="guide" opacity=".5" stroke="#000000">
+     <path d="m81.552 174.09 18.508-72.587 18.508 72.587v33.257h-37.017z" fill="none" opacity="1" stroke-width=".25"/>
+     <path d="m81.552 174.09h37.017"  fill="none" stroke-dasharray="1.5, 0.25" stroke-width=".25"/>
+     <path d="m100.06 120v87.353"  fill="none" stroke-dasharray="1.5, 0.25" stroke-width=".25"/>
+     <path d="m118.57 174.09-18.508-14.476-18.508 14.476" fill="none" stroke-dasharray="1.5, 0.25" stroke-width=".25"/>
+     <path d="m81.552 194.05h37.017" fill="none" stroke-dasharray="1.5, 0.25" stroke-width=".25"/>
+    </g>
+   </g>
+  </symbol>
+ </defs>
+ <g>
+  <use id="use1305" transform="translate(2.0449 24.845)" xlink:href="#missile"/>
+  <use id="use1326" transform="translate(31.444 24.845)" xlink:href="#missile"/>
+  <use id="use1328" transform="translate(60.842 24.845)" xlink:href="#missile"/>
+  <use id="use1330" transform="translate(90.241 24.845)" xlink:href="#missile"/>
+  <use id="use1332" transform="translate(119.64 24.845)" xlink:href="#missile"/>
+  <use id="use1334" transform="translate(149.04 24.845)" xlink:href="#missile"/>
+  <use id="use1336" transform="translate(178.44 24.845)" xlink:href="#missile"/>
+  <use id="use1340" transform="translate(2.0449 108.47)" xlink:href="#missile"/>
+  <use id="use1342" transform="translate(31.444 108.47)" xlink:href="#missile"/>
+  <use id="use1344" transform="translate(60.842 108.47)" xlink:href="#missile"/>
+  <use id="use1346" transform="translate(90.241 108.47)" xlink:href="#missile"/>
+  <use id="use1348" transform="translate(119.64 108.47)" xlink:href="#missile"/>
+  <use id="use1350" transform="translate(149.04 108.47)" xlink:href="#missile"/>
+  <use id="use1352" transform="translate(178.44 108.47)" xlink:href="#missile"/>
+  <use id="use1354" transform="translate(2.0449 192.09)" xlink:href="#missile"/>
+  <use id="use1356" transform="translate(31.444 192.09)" xlink:href="#missile"/>
+  <use id="use1358" transform="translate(60.842 192.09)" xlink:href="#missile"/>
+  <use id="use1360" transform="translate(90.241 192.09)" xlink:href="#missile"/>
+  <use id="use1362" transform="translate(119.64 192.09)" xlink:href="#missile"/>
+  <use id="use1364" transform="translate(149.04 192.09)" xlink:href="#missile"/>
+  <use id="use1366" transform="translate(178.44 192.09)" xlink:href="#missile"/>
+ </g>
+</svg>
