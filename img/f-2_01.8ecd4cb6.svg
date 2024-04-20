@@ -15,5 +15,6 @@
   <image id="roundel_frontL" transform="matrix(-.28517 .95848 .95848 .28517 0 0)" x="96.346" y="129.08" width="4.0638" height="4.0638" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/japan.svg"/>
   <image id="roundel_frontR" transform="matrix(.7093 -.70491 -.70491 -.7093 0 0)" x="-43.698" y="-145.94" width="4.0638" height="4.0638" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/roundels/japan.svg"/>
  </g>
+ <image id="qr" transform="rotate(180.22)" x="-45.883" y="-20.231" width="17.186" height="17.186" preserveAspectRatio="xMidYMid" xlink:href="../fe/src/assets/qrCodes/origami-skin.svg"/>
 </svg>
 
