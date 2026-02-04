@@ -1,8 +1,8 @@
 <svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="linearGradient1360" x1="105" x2="104.95" y1="88.497" y2="77.714" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ff6600" offset="0"/>
-   <stop stop-color="#803300" offset="1"/>
+   <stop id="cockpit_0" stop-color="#ff6600" offset="0"/>
+   <stop id="cockpit_1" stop-color="#803300" offset="1"/>
   </linearGradient>
  </defs>
  <rect id="bg" x="-.25" width="210.25" height="297" fill="#cccccc"/>

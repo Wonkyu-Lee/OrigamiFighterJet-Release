@@ -3,8 +3,8 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs id="defs2">
 		<linearGradient id="linearGradient1139" x1="105" x2="105" y1="64.754" y2="86.714" gradientUnits="userSpaceOnUse">
-			<stop id="stop1131" stop-color="#6f0808" offset="0"/>
-			<stop id="stop1133" stop-color="#f1338e" offset="1"/>
+			<stop id="cockpit_0" stop-color="#6f0808" offset="0"/>
+			<stop id="cockpit_1" stop-color="#f1338e" offset="1"/>
 		</linearGradient>
 	</defs>
 	<rect id="base" width="210" height="297" fill="#cccccc" stop-color="#000000" stroke="#666666" stroke-width=".2"/>
